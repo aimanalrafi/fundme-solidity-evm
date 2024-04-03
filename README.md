@@ -1,3 +1,13 @@
+## Introduction
+This is a project which does the following:- 
+
+- Creates and deployes smart contracts to Ethereum (can be first tested with Sepolia (an ethereum testnest or anvil local chain))
+- Contracts facilitates the depositing as well as the withdrawal of funds
+- Covers the basics of Solidity and developing contracts in Ethereum (Storage, Transactions, Tests)
+
+Credits: Patrick Collins and the team! Thanks for the amazing course!
+
+
 ## Foundry
 
 **Foundry is a blazing fast, portable and modular toolkit for Ethereum application development written in Rust.**
